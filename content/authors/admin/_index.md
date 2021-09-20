@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Hermann Kumbong
+role: Engineering Analyst @ Goldman Sachs
 avatar_filename: kumbong-hermann_660x680_acf_cropped.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
