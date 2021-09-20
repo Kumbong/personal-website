@@ -40,6 +40,4 @@ highlight_name: true
 ---
 I am an Engineering Analyst at Goldman Sachs where I work mainly in the areas of Software Engineering and Distributed Systems. My primary interests include distributed systems, machine learning, artificial intelligence and algorithms, and programmable matter. Prior to joining Goldman Sachs, I obtained a bachelor's degree in Computer Engineering from the Kwame Nkrumah University of Science and Technology where I graduated as the University's Valedictorian and recorded the highest academic performance in the University's 69 year history.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
