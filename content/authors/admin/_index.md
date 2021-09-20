@@ -1,7 +1,7 @@
 ---
 title: Hermann Kumbong
 role: Engineering Analyst @ Goldman Sachs
-avatar_filename: kumbong-hermann_660x680_acf_cropped.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
