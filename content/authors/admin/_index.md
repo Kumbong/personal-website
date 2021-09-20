@@ -36,8 +36,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hermann is an Engineering Analyst at Goldman Sachs where . His primary interests include distributed systems, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+Pelkins was born in Limbe – a seaside city in the South West Region of Cameroon. With over 300 native languages and diverse climatic zones, Cameroon is nicknamed: "Africa in miniature". Growing up in Cameroon's diversity, Pelkins developed a global interest from childhood. This interest led him to the Massachusetts Institute of Technology (MIT) where he graduated in 2018 with a bachelor's degree in Mechanical Engineering, concentrating in Robotics. Pelkins is passionate about leveraging the fourth industrial revolution to [solve](https://www.youtube.com/watch?v=TgiFecs6q1c) some of the world's most challenging issues. He has two years of experience using artificial intelligence to improve sensing capabilities for autonomous vehicles and has [patented](https://patents.justia.com/inventor/pelkins-ajanoh) autonomous sensing technologies. In his junior year of college, Pelkins started a tech-enabled CPG business in his native Cameroon that is empowering over 500 farmers. He is currently pursuing his interest in tech entrepreneurship through the dual [MS/MBA](https://www.hbs.edu/mba/academic-experience/joint-degree-programs/school-of-engineering-and-applied-sciences/Pages/default.aspx) program at Harvard Business School and Harvard John A. Paulson School of Engineering and Applied Sciences.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
