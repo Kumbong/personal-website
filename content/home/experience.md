@@ -25,7 +25,7 @@ experience:
   - title: Engineering Analyst
     company: Goldman Sachs
     company_url: 'https://www.goldmansachs.com/'
-    company_logo: org-gs
+    company_logo: org-gc
     location: London, United Kingdom
     date_start: '2021-05-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Summer Analyst (Engineering)
     company: Goldman Sachs
     company_url: 'https://www.goldmansachs.com/'
-    company_logo: org-gs
+    company_logo: org-x
     location: Hong Kong, Hong Kong SAR
     date_start: '2020-07-01'
     date_end: '2020-08-31'
