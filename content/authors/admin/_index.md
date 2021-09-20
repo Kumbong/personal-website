@@ -29,12 +29,6 @@ organizations:
     url: https://www.goldmansachs.com/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
     - course: BSc in Computer Engineering
       institution: Kwame Nkrumah University of Science and Technology
       year: 2020
