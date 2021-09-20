@@ -38,6 +38,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am an Engineering Analyst at Goldman Sachs where I work mainly in the areas of Software Engineering and Distributed Systems. My primary interests include distributed systems, machine learning, artificial intelligence and algorithms, and programmable matter. Prior to joining Goldman Sachs, I obtained a bachelor's degree in Computer Engineering from the Kwame Nkrumah University of Science and Technology. I graduated in 2020 as the University's Valedictorian with the highest academic performance ever in 69 years.
+I am an Engineering Analyst at Goldman Sachs where I work mainly in the areas of Software Engineering and Distributed Systems. My primary interests include distributed systems, machine learning, artificial intelligence and algorithms, and programmable matter. Prior to joining Goldman Sachs, I obtained a bachelor's degree in Computer Engineering from the Kwame Nkrumah University of Science and Technology. I graduated in 2020 as the University's Valedictorian with the highest academic performance ever in its 69 year history.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
