@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Experience
 subtitle:
@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Engineering Analyst
+    company: Goldman Sachs
+    company_url: 'https://www.goldmansachs.com/'
+    company_logo: org-gs
+    location: London, United Kingdom
+    date_start: '2021-05-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -36,14 +36,23 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+  - title: Summer Analyst (Engineering)
+    company: Goldman Sachs
+    company_url: 'https://www.goldmansachs.com/'
+    company_logo: org-gs
+    location: Hong Kong, Hong Kong SAR
+    date_start: '2020-07-01'
+    date_end: '2020-08-31'
     description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Research Assistant
+    company: Connected Devices (CoDe) Lab
+    company_url: 'https://www.goldmansachs.com/'
+    company_logo: org-code-lab
+    location: KNUST, Ghana
+    date_start: '2019-06-01'
+    date_end: '2020-08-31'
+    description: Advised by Dr. Henry Nunoo Mensah
 
 design:
   columns: '2'
