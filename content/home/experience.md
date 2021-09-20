@@ -48,7 +48,7 @@ experience:
   - title: Research Assistant
     company: Connected Devices (CoDe) Lab
     company_url: 'https://www.goldmansachs.com/'
-    company_logo: org-code-lab
+    company_logo: org-x
     location: KNUST, Ghana
     date_start: '2019-06-01'
     date_end: '2020-08-31'
