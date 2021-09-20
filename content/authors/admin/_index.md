@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Goldman Sachs
+    url: https://www.goldmansachs.com/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -35,14 +35,14 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Engineering
+      institution: Kwame Nkrumah University of Science and Technology
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
 ---
-Hermann is an Engineering Analyst at Goldman Sachs. His primary interests include distributed systems, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hermann is an Engineering Analyst at Goldman Sachs where . His primary interests include distributed systems, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
