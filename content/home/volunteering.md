@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 140
+weight: 90
 
 title: Skills
 subtitle:
