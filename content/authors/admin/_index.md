@@ -27,8 +27,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am an Engineering Analyst at Goldman Sachs where I work mainly in the areas of Software Engineering and Distributed Systems. My primary interests include distributed systems, machine learning, artificial intelligence and algorithms, and programmable matter. Prior to joining Goldman Sachs, I obtained a bachelor's degree in Computer Engineering from the Kwame Nkrumah University of Science and Technology, with a large emphasis on Systems. During my undergraduate studies,
+I am an Engineering Analyst (fancy term in the finance world for Software Engineer)  at [Goldman Sachs](https://www.goldmansachs.com/) where I work mainly on Low-latency Distributed Systems for trading financial products. My primary interests include distributed systems, machine learning, artificial intelligence and algorithms, and programmable matter. Prior to joining Goldman Sachs, I obtained a bachelor's degree in Computer Engineering from the Kwame Nkrumah University of Science and Technology, with a large emphasis on Systems. During my undergraduate studies,
 
 I was fortunate to carry out applied machine learning at the Connected Devices Lab
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
