@@ -4,12 +4,6 @@ role: Engineering Analyst
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests:
-  - Artificial Intelligence
-  - Distributed Systems
-  - Machine Learning
-  - VLSI
-  - Entrepreneurship
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,15 +23,10 @@ social:
 organizations:
   - name: Goldman Sachs
     url: https://www.goldmansachs.com/
-education:
-  courses:
-    - course: BSc in Computer Engineering
-      institution: Kwame Nkrumah University of Science and Technology
-      year: 2020
 email: ""
 superuser: true
 highlight_name: true
 ---
-I am an Engineering Analyst at Goldman Sachs where I work mainly in the areas of Software Engineering and Distributed Systems. My primary interests include distributed systems, machine learning, artificial intelligence and algorithms, and programmable matter. Prior to joining Goldman Sachs, I obtained a bachelor's degree in Computer Engineering from the Kwame Nkrumah University of Science and Technology. I graduated in 2020 as the University's Valedictorian with the highest academic performance ever in its 69 year history.
+I am an Engineering Analyst at Goldman Sachs where I work mainly in the areas of Software Engineering and Distributed Systems. My primary interests include distributed systems, machine learning, artificial intelligence and algorithms, and programmable matter. Prior to joining Goldman Sachs, I obtained a bachelor's degree in Computer Engineering from the Kwame Nkrumah University of Science and Technology, with a large emphasis on Systems. During my undergraduate studies, I was fortunate to carry out applied machine learning at the Connected Devices Lab
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
