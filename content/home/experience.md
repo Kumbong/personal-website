@@ -48,6 +48,15 @@ experience:
     date_start: '2019-06-01'
     date_end: '2020-08-31'
     description: ""
+    
+  - title: Software Engineer Intern
+    company: Y'G Inc.
+    company_url: 'https://www.yems.group/'
+    company_logo: yg
+    location: Bamenda, Cameroon
+    date_start: '2017-06-01'
+    date_end: '2017-08-31'
+    description: ""
 
 design:
   columns: '2'
