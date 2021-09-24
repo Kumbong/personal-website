@@ -25,7 +25,7 @@ experience:
   - title: Engineering Analyst
     company: Goldman Sachs
     company_url: 'https://www.goldmansachs.com/'
-    company_logo: org-gc
+    company_logo: gs
     location: London, United Kingdom
     date_start: '2021-05-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Summer Analyst (Engineering)
     company: Goldman Sachs
     company_url: 'https://www.goldmansachs.com/'
-    company_logo: org-x
+    company_logo: gs
     location: Hong Kong, Hong Kong SAR
     date_start: '2020-07-01'
     date_end: '2020-08-31'
@@ -44,7 +44,7 @@ experience:
     company: Connected Devices (CoDe) Lab
     company_url: 'https://www.goldmansachs.com/'
     company_logo: org-x
-    location: KNUST, Ghana
+    location: KNUST Kumasi, Ghana
     date_start: '2019-06-01'
     date_end: '2020-08-31'
     description: ""
