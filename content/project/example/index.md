@@ -1,8 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
+title: Multi-Agent Reinforcement Learning for Adaptive Traffic Signal Control
+summary: Multi-Agent Reinforcement Learning for Adaptive Traffic Signal Control
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
