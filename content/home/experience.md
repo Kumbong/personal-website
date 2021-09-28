@@ -56,7 +56,7 @@ experience:
     location: Bamenda, Cameroon
     date_start: '2017-06-01'
     date_end: '2017-08-31'
-    description: "Software Engineering"
+    description: ""
 
 design:
   columns: '2'
