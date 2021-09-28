@@ -49,7 +49,7 @@ experience:
     date_end: '2020-08-31'
     description: ""
   
-  - title: Teaching Assistant
+  - title: Teaching Assistant | Operating Systems
     company: Kwame Nkrumah University of Science and Technology
     company_url: 'http://connecteddeviceslab.org/'
     company_logo: knust
@@ -68,5 +68,5 @@ experience:
     description: ""
 
 design:
-  columns: '3'
+  columns: '2'
 ---
