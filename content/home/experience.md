@@ -48,6 +48,15 @@ experience:
     date_start: '2019-06-01'
     date_end: '2020-08-31'
     description: ""
+  
+  - title: Teaching Assistant
+    company: Kwame Nkrumah University of Science and Technology
+    company_url: 'http://connecteddeviceslab.org/'
+    company_logo: knust
+    location: KNUST Kumasi, Ghana
+    date_start: '2019-06-01'
+    date_end: '2019-08-31'
+    description: ""
     
   - title: Software Engineer Intern
     company: Y'G Inc.
@@ -59,5 +68,5 @@ experience:
     description: ""
 
 design:
-  columns: '2'
+  columns: '3'
 ---
