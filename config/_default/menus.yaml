@@ -22,18 +22,12 @@ main:
   - name: Awards
     url: '#awards'
     weight: 60
-  - name: Featured
-    url: '#featured'
-    weight: 70
   - name: Blog
     url: '#blog'
     weight: 80
   - name: Volunteering
     url: '#volunteering'
     weight: 90
-  - name: Hobbies
-    url: '#hobbies'
-    weight: 100
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
