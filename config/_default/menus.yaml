@@ -13,15 +13,9 @@ main:
   - name: Projects
     url: '#projects'
     weight: 40
-  - name: CV
-    url: '#cv'
-    weight: 50
   - name: Awards
     url: '#awards'
     weight: 60
-  - name: Blog
-    url: '#blog'
-    weight: 80
   - name: Volunteering
     url: '#volunteering'
     weight: 90
