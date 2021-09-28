@@ -29,10 +29,7 @@ experience:
     location: London, United Kingdom
     date_start: '2021-05-01'
     date_end: ''
-    description: >-
-            * Analysing
-            * Modelling
-            * Deploying
+    description: ""
         
   - title: Summer Analyst (Engineering)
     company: Goldman Sachs
@@ -41,7 +38,7 @@ experience:
     location: Hong Kong, Hong Kong SAR
     date_start: '2020-07-01'
     date_end: '2020-08-31'
-    description: "Distributed Systems"
+    description: ""
 
   - title: Research Assistant
     company: Connected Devices (CoDe) Lab
@@ -50,7 +47,7 @@ experience:
     location: KNUST Kumasi, Ghana
     date_start: '2019-06-01'
     date_end: '2020-08-31'
-    description: "Machine Learning"
+    description: ""
     
   - title: Software Engineer Intern
     company: Y'G Inc.
