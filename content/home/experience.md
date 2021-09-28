@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Engineering Analyst
+  - title: Engineering Analyst | Distributed Systems
     company: Goldman Sachs
     company_url: 'https://www.goldmansachs.com/'
     company_logo: gs
@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: ""
         
-  - title: Summer Analyst (Engineering)
+  - title: Summer Analyst | Distributed Systems
     company: Goldman Sachs
     company_url: 'https://www.goldmansachs.com/'
     company_logo: gs
@@ -40,7 +40,7 @@ experience:
     date_end: '2020-08-31'
     description: ""
 
-  - title: Research Assistant
+  - title: Research Assistant | Machine Learning
     company: Connected Devices (CoDe) Lab
     company_url: 'http://connecteddeviceslab.org/'
     company_logo: code-lab
