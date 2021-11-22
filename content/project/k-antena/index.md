@@ -1,5 +1,5 @@
 ---
-title: Antennas for high frequency‐radio frequency identification read/write devices
+title: Antenna Design for high frequency‐radio identification read/write devices
 summary: An in-depth methodical approach to the development of efficient high-frequency (HF) antennas for use in radio frequency identification (RFID) systems operating at 13.56 MHz.
 date: "2016-04-27T00:00:00Z"
 
