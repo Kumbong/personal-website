@@ -4,7 +4,7 @@ summary: A CLI tool for minimization of boolean circuits/functions based on the 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/Kumbong/quine_mccluskey"
 
 image:
   caption: Wuine-Mccluskey algorithm
@@ -15,10 +15,6 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/Kumbong/quine_mccluskey
-- icon: ""
-  icon_pack: ""
-  name: Report
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
