@@ -49,15 +49,6 @@ experience:
     date_end: '2020-08-31'
     description: ""
   
-  - title: Teaching Assistant | Operating Systems
-    company: Kwame Nkrumah University of Science and Technology
-    company_url: 'http://connecteddeviceslab.org/'
-    company_logo: knust
-    location: KNUST Kumasi, Ghana
-    date_start: '2019-06-01'
-    date_end: '2019-08-31'
-    description: ""
-    
   - title: Software Engineer Intern
     company: Y'G Inc.
     company_url: 'https://www.yems.group/'
