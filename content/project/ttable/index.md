@@ -19,7 +19,7 @@ links:
 - icon: ""
   icon_pack: ""
   name: Report
-  url: https://github.com/419-studios
+  url: https://drive.google.com/file/d/1sEon83Q0cwOBILvnp9-oPurKFeyZI00H/view?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
