@@ -15,11 +15,11 @@ links:
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://twitter.com/georgecushen
+  url: https://github.com/419-studios
 - icon: ""
   icon_pack: ""
   name: Report
-  url: https://twitter.com/georgecushen
+  url: https://github.com/419-studios
 url_code: ""
 url_pdf: ""
 url_slides: ""
