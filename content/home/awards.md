@@ -44,5 +44,6 @@ design:
 - Provost of Engineering’s Distinguished Student Award (2017, 2018, 2019)
 - Best final year dissertation, Department of Computer Engineering, KNUST (2020)
 - Among 31 students out of 1,200 selected to join Goldman Sachs (2020) [[Link]](https://www.goldmansachs.com/careers/blog/posts/ari-2021-industry-connect-event.html#:~:text=Received%C2%A01%2C200%20applications%20for%20the%202020%20program%3B%20accepted%20164%20participants%20from%2026%20schools%20across%20Nigeria%2C%20Ghana%2C%20and%20Kenya%20to%20the%20initiative%2C%20extended%20offers%20to%2031%20individuals%20for%20an%20internship%20in%20London%20and%20Hong%20Kong)
+- Youth of the month, Better Breed Cameroon (2020) [[Link]](https://betterbreedcameroon.org/youth-of-the-month-kumbong-hermann/)
 - 2nd Best in Cameroon at the GCE Ordinary Level out of 84,000 (2013) 
 - Top 25 in Cameroon at the GCE Advanced Level out of 45,000 (2015)
