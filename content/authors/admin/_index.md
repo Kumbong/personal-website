@@ -25,6 +25,6 @@ highlight_name: true
 
 **Research Interests**: My primary interests include distributed systems, databases, machine learning, big data analytics, cloud computing, and parallel computing.  I am very interested in working at the intersection of Systems and Artificial Intelligence (AI)/ Machine Learning (ML) to build the next generation of systems that would allow us to fully harness the power of AI/ML for solving problems. I am very open to exploring new fields and learning about new things. 
 
-I  have built a couple of failed startups :) and I am currently building [Reoplex](https://reoplex.vercel.app/);  Africa's next marketplace with a couple of brilliant people.
+I  have built a couple of failed startups :) and I am currently building [Reoplex](https://reoplex.vercel.app/);  Africa's next marketplace with a couple of brilliant people. I spend most of my free time helping to run the [Anansi Mentorship]() program and volunteering on other give-back initiatives.
 
 
