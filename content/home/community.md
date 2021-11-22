@@ -40,4 +40,7 @@ design:
 **Tutoring:** When I am not mentoring or leading mentorship initiatives, I am busy taking part in [initiatives](https://www.linkedin.com/feed/update/urn:li:activity:6607347347779387392/) that build other people's technical skills. This has hugely influenced my decision to pursue a career in academia. At Goldman Sachs, I am part of the Career Development Pillar of the Black Engineer's Network, where I help run initiatives to promote black excellence.
 {{< gallery album="tutoring" >}}
 
-I took part in a number of community give back iniatives during my time as a Mastercard Foundation Scholar. I love to travel, visit new places and learn about other people's cultures. I am an avid basketball player even though I don't play a lot these days. Please feel free to reach out if you want to colloborate on an iniative, I am always open to learning from other people's ideas.  
+**Giving back:** I took part in a number of community give back iniatives during my time as a [Mastercard Foundation Scholar](https://mastercardfdn.org/all/scholars/). From teaching highschool students to blood donation campaigns I cherish every opportunity I had to give back to my community.
+{{< gallery album="community" >}} 
+
+I love to travel, visit new places and learn about other people's cultures. I am an avid basketball player even though I don't play a lot these days. Please feel free to reach out if you want to colloborate on an something, I am always open to learning from other people's ideas.  
