@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Awards
+title: Honors & Awards
 subtitle: ""
 
 content:
@@ -35,4 +35,8 @@ design:
   view: 2
 ---
 
-- List item 1
+- Highest Cumulative Weighted Average (88.45) in the University’s 69-year history
+- University Valedictorian and Best graduating student out of 11,000 graduating students 
+- BFU Award, $2000; Ranked 1st at combined GCE Ordinary and Advanced Level results
+- 2nd Best in Cameroon at the GCE Ordinary Level out of 84,000 
+- Top 25 in Cameroon at the GCE Advanced Level out of 45,000 
