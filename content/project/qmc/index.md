@@ -15,6 +15,10 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/Kumbong/quine_mccluskey
+- icon: ""
+  icon_pack: ""
+  name: Report
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""

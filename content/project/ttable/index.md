@@ -1,6 +1,6 @@
 ---
-title: Lecture Scheduling Algorithm
-summary: A lecture scheduling for KNUST that models the lecture schedulling process as a multi-objective optimization problem with soft and hard constraints and applies GRASP (Greedy Randomized Adaptive Search Procedure) meta-heuristic to generate lecture schedules.
+title: KNUST Lecture Scheduler
+summary: A lecture scheduling algorithm for KNUST that models the lecture schedulling process as a multi-objective optimization problem with soft and hard constraints and applies GRASP (Greedy Randomized Adaptive Search Procedure) meta-heuristic to generate lecture schedules.
 
 date: "2016-04-27T00:00:00Z"
 
