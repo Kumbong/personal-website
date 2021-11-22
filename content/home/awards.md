@@ -12,14 +12,6 @@ weight: 60
 title: Honors & Awards
 subtitle: ""
 
-gallery_item:
-- album: awards
-  image: valedictorian.jpg
-  caption: Valedictorian, KNUST 2020
-- album: awards
-  image: valedictorian2.jpg
-  caption: With Provost of College of Engineering KNUST
-
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
@@ -41,6 +33,14 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
+
+gallery_item:
+- album: awards
+  image: valedictorian.jpg
+  caption: Valedictorian, KNUST 2020
+- album: awards
+  image: valedictorian2.jpg
+  caption: With Provost of College of Engineering KNUST
 ---
 
 - Highest Cumulative Weighted Average (88.45) in [KNUST](https://www.knust.edu.gh/) since 1952 (2020) [[Link]](https://twitter.com/mcfspatknust/status/1307272053796622337)
