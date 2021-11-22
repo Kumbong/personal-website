@@ -14,15 +14,15 @@ links:
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://twitter.com/georgecushen
+  url: https://github.com/Kumbong/on_post
 - icon: ""
   icon_pack: ""
   name: Report
-  url: https://twitter.com/georgecushen
+  url: https://drive.google.com/file/d/1UqEfeVv6OzIxo6KNdnT09PmRwTk4e3Gc/view?usp=sharing
 - icon: ""
   icon_pack: ""
   name: Presentation
-  url: https://twitter.com/georgecushen
+  url: https://docs.google.com/presentation/d/1AJvGiwwkWY8X8m6b0mSVteMMpWsoT8r4/edit?usp=sharing&ouid=108603998728623664156&rtpof=true&sd=true
 url_code: ""
 url_pdf: ""
 url_slides: ""
