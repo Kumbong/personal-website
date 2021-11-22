@@ -1,6 +1,6 @@
 ---
 title: Brain Tumor Segmentation
-summary: Brain Tumor Segmentation using SLIC Superpixels and Optimized Thresholding Algorithm for diagnosis of brain tumors. 
+summary:  Image processing algorithm that segments brain tumours and classifies them into Glioma, Meningioma and Pituitary tumour.
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
