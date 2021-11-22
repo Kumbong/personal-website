@@ -4,7 +4,7 @@ summary: An adaptive traffic signal control that utilizes Multi-agent RL to chan
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: https://drive.google.com/file/d/1UqEfeVv6OzIxo6KNdnT09PmRwTk4e3Gc/view?usp=sharing
 
 image:
   caption: Adaptive Traffic Signal Control
