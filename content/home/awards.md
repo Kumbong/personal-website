@@ -35,8 +35,9 @@ design:
   view: 2
 ---
 
-- Highest Cumulative Weighted Average (88.45) in the University’s 69-year history
-- University Valedictorian and Best graduating student out of 11,000 graduating students 
-- BFU Award, $2000; Ranked 1st at combined GCE Ordinary and Advanced Level results
+- Highest Cumulative Weighted Average (88.45) in [KNUST](https://www.knust.edu.gh/) since 1952 [[Link]](https://twitter.com/mcfspatknust/status/1307272053796622337)
+- Best graduating student in [KNUST](https://www.knust.edu.gh/) out of 11,000 graduating students [[Link]](https://youtu.be/ruomzU77mvk?t=1973)
+- Valedictorian of the College of Engineering [KNUST](https://www.knust.edu.gh/) [[Link]](https://youtu.be/ruomzU77mvk?t=642)
+- BFU Excellence Award; $2000 [KNUST](https://grasslandern.wordpress.com/2016/02/05/four-benefit-from-bui-family-union-scholarship/#:~:text=Formerly%20known%20as,thousand%20(FCFA%201%2C160%2C000).)
 - 2nd Best in Cameroon at the GCE Ordinary Level out of 84,000 
 - Top 25 in Cameroon at the GCE Advanced Level out of 45,000 
