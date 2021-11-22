@@ -1,6 +1,6 @@
 ---
 title: Large-scale Traffic Signal Control Using Multi-Agent Reinforcement Learning
-summary: We address the scalability issues centralized Reinforcement Learning (RL) systems face when applied to large-scale automatic traffic signal control due to the extremely high dimension of the joint action space. The project applies Multi-agent RL to overcome the scalability issues by distributing the global control to each local RL agent. Local agents consist of Deep-Q Learning agents.
+summary: An adaptive traffic signal control that utilizes Multi-agent RL to change the timing of traffic singals based on the density of traffic in different sections of the road network. Local agents consist of Deep-Q Learning agents.
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
