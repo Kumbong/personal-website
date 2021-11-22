@@ -43,4 +43,4 @@ design:
 **Volunteering:** I took part in a number of community give back iniatives during my time as a [Mastercard Foundation Scholar](https://mastercardfdn.org/all/scholars/). From teaching highschool students to blood donation campaigns I cherish every opportunity I had to give back to my community.
 {{< gallery album="community" >}} 
 
-I love to travel, visit new places and learn about other people's cultures. I am an avid basketball player even though I don't play a lot these days. Please feel free to reach out if you want to colloborate on something, I am always open to learning from other people's ideas.  
+**Hobbies:** I love to travel, visit new places and learn about other people's cultures. I am an avid basketball player even though I don't play a lot these days. Please feel free to reach out if you want to colloborate on something, I am always open to learning from other people's ideas.  
