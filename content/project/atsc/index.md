@@ -1,5 +1,5 @@
 ---
-title: Multi-Agent Reinforcement Learning for Adaptive Traffic Signal Control
+title: Large-scale Traffic Signal Control Using Multi-Agent Reinforcement Learning
 summary: Multi-Agent Reinforcement Learning for Adaptive Traffic Signal Control
 date: "2016-04-27T00:00:00Z"
 
