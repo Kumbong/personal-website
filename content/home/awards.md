@@ -47,3 +47,5 @@ design:
 - Youth of the month, Better Breed Cameroon (2020) [[Link]](https://betterbreedcameroon.org/youth-of-the-month-kumbong-hermann/)
 - 2nd Best in Cameroon at the GCE Ordinary Level out of 84,000 (2013) 
 - Top 25 in Cameroon at the GCE Advanced Level out of 45,000 (2015)
+
+{{< gallery album="community" >}}
