@@ -1,6 +1,6 @@
 ---
 title: Microprocessor Design
-summary:  A 32-bit, 6-stage pipelined RISC processor with hazard mitigation and data forwarding. Implemented the processor using VHDL and verified the performance by running on an actual FPGA.
+summary:  A 32-bit, RISC processor based on the MIPS instruction set architecture.
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -14,15 +14,15 @@ links:
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://twitter.com/georgecushen
+  url: https://github.com/Kumbong/mini-mips
 - icon: ""
   icon_pack: ""
   name: Report
-  url: https://twitter.com/georgecushen
+  url: https://github.com/Kumbong/mini-mips/blob/master/docs/report.pdf
 - icon: ""
   icon_pack: ""
-  name: Presentation
-  url: https://twitter.com/georgecushen
+  name: Slides
+  url: https://docs.google.com/presentation/d/1MpAyyyyIRhAAk4YZGEPiKS5p76khfpoZ/edit#slide=id.p17
 url_code: ""
 url_pdf: ""
 url_slides: ""
