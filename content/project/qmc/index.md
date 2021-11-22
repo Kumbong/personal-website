@@ -7,22 +7,14 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Wuine-Mccluskey algorithm
   focal_point: Smart
 
 links:
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://twitter.com/georgecushen
-- icon: ""
-  icon_pack: ""
-  name: Report
-  url: https://twitter.com/georgecushen
-- icon: ""
-  icon_pack: ""
-  name: Presentation
-  url: https://twitter.com/georgecushen
+  url: https://github.com/Kumbong/quine_mccluskey
 url_code: ""
 url_pdf: ""
 url_slides: ""
