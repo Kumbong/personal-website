@@ -4,7 +4,7 @@ summary: Convolutional Neural Network Classifier for facial expression recogniti
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/connected-devices-lab/affective-computing/blob/master/facial/facial-emotion-recognition-cnn/alex-augmented.ipynb"
 
 image:
   caption: Facial Expression Recognition
@@ -15,11 +15,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://twitter.com/georgecushen
-- icon: ""
-  icon_pack: ""
-  name: Report
-  url: https://twitter.com/georgecushen
+  url: https://github.com/connected-devices-lab/affective-computing/blob/master/facial/facial-emotion-recognition-cnn/alex-augmented.ipynb
 url_code: ""
 url_pdf: ""
 url_slides: ""
