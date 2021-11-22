@@ -32,7 +32,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
 ---
 
 - Highest Cumulative Weighted Average (88.45) in [KNUST](https://www.knust.edu.gh/) since 1952 (2020) [[Link]](https://twitter.com/mcfspatknust/status/1307272053796622337)
