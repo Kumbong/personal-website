@@ -39,7 +39,7 @@ design:
 - Best graduating student in [KNUST](https://www.knust.edu.gh/) out of 11,000 graduating students (2020) [[Link]](https://youtu.be/ruomzU77mvk?t=1973)
 - Valedictorian of the College of Engineering  [KNUST](https://www.knust.edu.gh/) (2020) [[Link]](https://youtu.be/ruomzU77mvk?t=642)
 - Mastercard Foundation Scholarship Recipient (2016) [[Link]](https://mastercardfdn.org/from-cameroon-to-ghana/)
-- Overall Best Mastercard Foundation Scholar KNUST (2017, 2018, 2019) [[Link]](https://www.knust.edu.gh/news/news-items/mastercard-foundation-grants-full-scholarship-150-students-knust?fbclid=IwAR3n0j2sw9JUhN91_lwrUi2RVC3JTduevSVzw0ADH1tNQX7zwGv0zwwfOLU)
+- Overall Best Mastercard Foundation Scholar KNUST (2017, 2018, 2019) [[Link]](https://www.knust.edu.gh/news/news-items/mastercard-foundation-grants-full-scholarship-150-students-knust?fbclid=IwAR3n0j2sw9JUhN91_lwrUi2RVC3JTduevSVzw0ADH1tNQX7zwGv0zwwfOLU#:~:text=In%20the%20Academics%20category%3B%20Herman%20Nyuykonge%20Kumbong%20with%20a%20Cumulative%20Weighted%20Average%20(CWA)%20of%2088.42)
 - BFU Excellence Award; $2000 (2016) [[Link]](https://grasslandern.wordpress.com/2016/02/05/four-benefit-from-bui-family-union-scholarship/#:~:text=Formerly%20known%20as,thousand%20(FCFA%201%2C160%2C000).)
 - Provost of Engineering’s Distinguished Student Award (2017, 2018, 2019)
 - Best final year dissertation, Department of Computer Engineering, KNUST (2020)
