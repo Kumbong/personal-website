@@ -11,10 +11,6 @@ image:
   focal_point: Smart
 
 links:
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/Kumbong/on_post
 - icon: ""
   icon_pack: ""
   name: Report
