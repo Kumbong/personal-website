@@ -5,7 +5,7 @@ summary: A lecture scheduling algorithm for KNUST that models the lecture schedu
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: https://drive.google.com/file/d/1sEon83Q0cwOBILvnp9-oPurKFeyZI00H/view?usp=sharing
 
 image:
   caption: Lecture schedule
