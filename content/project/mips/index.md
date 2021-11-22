@@ -22,7 +22,7 @@ links:
 - icon: ""
   icon_pack: ""
   name: Slides
-  url: https://docs.google.com/presentation/d/1MpAyyyyIRhAAk4YZGEPiKS5p76khfpoZ/edit#slide=id.p17
+  url: https://docs.google.com/presentation/d/1MpAyyyyIRhAAk4YZGEPiKS5p76khfpoZ/edit#slide=id.p1
 url_code: ""
 url_pdf: ""
 url_slides: ""
