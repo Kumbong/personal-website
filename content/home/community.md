@@ -33,6 +33,20 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+
+gallery_item:
+- album: mentorship
+  image: image1.jpg
+  caption: Mentorship session at Open Dreams Organization, Yaounde, Cameroon
+- album: mentorship
+  image: image4.jpg
+  caption: Mentorship session at Open Dreams Organization, Yaounde, Cameroon
+- album: awards
+  image: vbetter_breed.jpg
+  caption: Youth of the Month, Better Breed Cameroon, December 2020
+- album: hobbies
+  image: baobab.jpg
+  caption: Baobab Leadership Summit Kigali, Rwanda 2018
 ---
 **Mentorship:** I am very passionate about mentoring and supporting others to realize their true potential. I co-founded [Anansi Mentorship](), with [@Twum-Ampofo](https://www.linkedin.com/in/kofiapeakorang/) and [@Ermyntrude](https://mcfscholars.asu.edu/scholars/phase-ii-scholars/ermyntrude-adjei), together we are helping bridge the gap between students from Universities in Africa and opportunities around the globe. I am also a member of the [Elevate Mentorship program](https://sites.google.com/miafrik.org/elevate/about-us/our-mentors) where I help mentor university students back in Cameroon. At [Open Dreams Organization](https://www.open-dreams.org/), I help high-achieving, low-income high school students from Cameroon in their quest for securing scholarships to pursue a university education.
 {{< gallery album="mentorship" >}}
@@ -43,7 +57,7 @@ design:
 **Volunteering:** I took part in a number of community give back iniatives during my time as a [Mastercard Foundation Scholar](https://mastercardfdn.org/all/scholars/). From teaching highschool students to blood donation campaigns. I cherish every opportunity I had to give back to my community and I am looking forward to doing more.
 {{< gallery album="community" >}} 
 
-**Hobbies:** I love to travel, meet like-minded youths and brainstorm on issues facing society. I also love learning about other people's cultures. I am an avid basketball player and led highschool to win the regional basketball tournament. 
+**Hobbies:** I love to travel, meet like-minded youths and brainstorm on issues facing society. I also love learning about other people's cultures. I am an avid basketball player, you can hit me up for a pickup game but [please mind your ankles](https://youtu.be/OlUe4uzSQD4?t=85). I led my highschool team to win the regional basketball tournament  in Cameroon. 
 {{< gallery album="hobbies" >}} 
 
 Please feel free to reach out if you want to colloborate on something, I am always open to learning from other people's ideas.  
