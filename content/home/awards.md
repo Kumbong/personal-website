@@ -45,7 +45,7 @@ gallery_item:
   image: vbetter_breed.png
   caption: Youth of the Month, Better Breed Cameroon
 - album: awards
-  image: vc_knust.png
+  image: vc_knust.jpg
   caption: With the Vice Chancellor KNUST
 
 - Highest Cumulative Weighted Average (88.45) in [KNUST](https://www.knust.edu.gh/) since 1952 (2020) [[Link]](https://twitter.com/mcfspatknust/status/1307272053796622337)
