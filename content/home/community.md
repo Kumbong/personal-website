@@ -64,4 +64,3 @@ gallery_item:
 {{< gallery album="hobbies" >}} 
 
 Please feel free to reach out if you want to colloborate on something, I am always open to learning from other people's ideas.  
-{{< figure src="albums/hobbies/baobab.jpg" caption="A caption" numbered="true" >}}
