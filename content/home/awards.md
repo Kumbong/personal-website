@@ -39,14 +39,14 @@ gallery_item:
   image: valedictorian.jpg
   caption: Valedictorian of the Kwame Nkrumah University of Science and Technology 2020
 - album: awards
-  image: valedictorian2.jpg
-  caption: With the Provost of College of Engineering KNUST
+  image: with_hod.jpg
+  caption: Provost of Engineering's Distinguished Student Award, KNUST, 2019
 - album: awards
   image: vbetter_breed.jpg
-  caption: Youth of the Month, Better Breed Cameroon
+  caption: Youth of the Month, Better Breed Cameroon, December 2020
 - album: awards
   image: vc_knust.jpg
-  caption: With the Vice Chancellor KNUST
+  caption: Excellence Award from the Vice Chancellor, KNUST
 ---
 
 - Highest Cumulative Weighted Average (88.45) in [KNUST](https://www.knust.edu.gh/) since 1952 (2020) [[Link]](https://twitter.com/mcfspatknust/status/1307272053796622337)
