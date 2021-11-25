@@ -1,10 +1,10 @@
 ---
 title: Brain Tumor Segmentation
-summary:  Image processing algorithm that segments brain tumours and classifies them into Glioma, Meningioma and Pituitary tumour.
+summary:  Implemented image segmentation algorithms on MRI brain images to separate similar portions of the image based on gray-level values of the pixels. The purpose of segmenting the MRI brain images was to help in tumor detection. Segmentation techniques implemented were edge-based segmentation (Krisch, Sobel), threshold-based segmentation (Ostu), clustering algorithms (k-means, adaptive k-means, fuzzy c-means, Marker Controlled Watershed).
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/connected-devices-lab/brain-tumor-segmentation"
 
 image:
   caption: Brain Tumor MRI
