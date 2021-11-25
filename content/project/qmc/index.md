@@ -7,7 +7,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: "https://github.com/Kumbong/quine_mccluskey"
 
 image:
-  caption: Wuine-Mccluskey algorithm
+  caption: Quine-Mccluskey algorithm
   focal_point: Smart
 
 links:
