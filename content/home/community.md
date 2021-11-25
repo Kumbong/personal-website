@@ -44,5 +44,6 @@ design:
 {{< gallery album="community" >}} 
 
 **Hobbies:** I love to travel, meet like-minded youths and brainstorm on issues facing society. I also love learning about other people's cultures. I am an avid basketball player and led highschool to win the regional basketball tournament. 
+{{< gallery album="hobbies" >}} 
 
 Please feel free to reach out if you want to colloborate on something, I am always open to learning from other people's ideas.  
