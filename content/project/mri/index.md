@@ -4,7 +4,7 @@ summary:  Image processing algorithm that segments brain tumours and classifies 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/connected-devices-lab/brain-tumor-segmentation
+external_link: ""
 
 image:
   caption: Brain Tumor MRI
