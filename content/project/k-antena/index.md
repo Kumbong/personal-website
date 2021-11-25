@@ -10,7 +10,7 @@ authors:
 - Hermann Kumbong
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://onlinelibrary.wiley.com/doi/epdf/10.1002/eng2.12407
+external_link: https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.12407
 
 image:
   caption: Antenna Design
