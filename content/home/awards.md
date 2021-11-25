@@ -42,8 +42,8 @@ gallery_item:
   image: valedictorian2.jpg
   caption: With the Provost of College of Engineering KNUST
 - album: awards
-  image: vc_knust.jpg
-  caption: With the Vice Chancellor KNUST
+  image: vbetter_breed.png
+  caption: Youth of the Month, Better Breed Cameroon
 
 - Highest Cumulative Weighted Average (88.45) in [KNUST](https://www.knust.edu.gh/) since 1952 (2020) [[Link]](https://twitter.com/mcfspatknust/status/1307272053796622337)
 - Best graduating student in [KNUST](https://www.knust.edu.gh/) out of 11,000 graduating students (2020) [[Link]](https://youtu.be/ruomzU77mvk?t=1973)
