@@ -4,7 +4,7 @@ summary:  Implemented simple linear iterative clustering (SLIC) for sementing MR
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: https://github.com/connected-devices-lab/brain-tumor-segmentation
 
 image:
   caption: Brain Tumor MRI

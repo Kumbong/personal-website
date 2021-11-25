@@ -11,13 +11,13 @@ image:
   focal_point: Smart
 
 links:
-- icon: ""
-  icon_pack: ""
+- icon: fas
+  icon_pack: file-pdf
   name: Report
   url: https://drive.google.com/file/d/1UqEfeVv6OzIxo6KNdnT09PmRwTk4e3Gc/view?usp=sharing
-- icon: ""
-  icon_pack: ""
-  name: Presentation
+- icon: fab
+  icon_pack: presentation
+  name: Slides
   url: https://docs.google.com/presentation/d/1AJvGiwwkWY8X8m6b0mSVteMMpWsoT8r4/edit?usp=sharing&ouid=108603998728623664156&rtpof=true&sd=true
 url_code: ""
 url_pdf: ""
