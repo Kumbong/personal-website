@@ -47,6 +47,9 @@ gallery_item:
 - album: hobbies
   image: baobab.jpg
   caption: Baobab Leadership Summit Kigali, Rwanda 2018
+- album: hobbies
+  image: baobab2.jpg
+  caption: Baobab Leadership Summit Kigali, Rwanda 2018
 ---
 **Mentorship:** I am very passionate about mentoring and supporting others to realize their true potential. I co-founded [Anansi Mentorship](), with [@Twum-Ampofo](https://www.linkedin.com/in/kofiapeakorang/) and [@Ermyntrude](https://mcfscholars.asu.edu/scholars/phase-ii-scholars/ermyntrude-adjei), together we are helping bridge the gap between students from Universities in Africa and opportunities around the globe. I am also a member of the [Elevate Mentorship program](https://sites.google.com/miafrik.org/elevate/about-us/our-mentors) where I help mentor university students back in Cameroon. At [Open Dreams Organization](https://www.open-dreams.org/), I help high-achieving, low-income high school students from Cameroon in their quest for securing scholarships to pursue a university education.
 {{< gallery album="mentorship" >}}
