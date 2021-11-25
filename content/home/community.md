@@ -66,7 +66,7 @@ gallery_item:
 **Tutoring:** When I am not leading mentorship initiatives, I am busy taking part in [initiatives](https://www.linkedin.com/feed/update/urn:li:activity:6607347347779387392/) that build other people's technical skills. I was the lead for Artificial Intelligence at the [KNUST Innovation Centre]() where I led several training initiatives. At Goldman Sachs, I am part of the Career Development Pillar of the Black Engineer's Network, where I help run initiatives to promote black excellence.  These experiences have hugely influenced my decision to pursue a career in academia.
 {{< gallery album="tutoring" >}}
 
-**Volunteering:** I took part in a number of community give back iniatives during my time as a [Mastercard Foundation Scholar](https://mastercardfdn.org/all/scholars/). From teaching highschool students to blood donation campaigns. I cherish every opportunity I had to give back to my community and I am looking forward to doing more.
+**Volunteering:** I took part in a number of community give back iniatives during my time as a [Mastercard Foundation Scholar](https://mastercardfdn.org/all/scholars/). From teaching highschool students to blood donation campaigns. I cherish every opportunity I have to give back to my community and I am looking forward to doing more.
 {{< gallery album="community" >}} 
 
 **Hobbies:** I love to travel, meet like-minded youths and brainstorm on issues facing society. I also love learning about other people's cultures. I am an avid basketball player, you can hit me up for a pickup game but [please mind your ankles](https://youtu.be/OlUe4uzSQD4?t=85) :) . I led my high school team to win the regional basketball tournament  in Cameroon. 
