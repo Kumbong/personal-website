@@ -1,6 +1,6 @@
 ---
 title: Antenna Design for high frequency‐radio identification read/write devices
-summary: An in-depth methodical approach to the development of efficient high-frequency (HF) antennas for use in radio frequency identification (RFID) systems operating at 13.56 MHz.
+summary: A stepwise design and measurement of an HF antenna for an ISO/IEC 15693 compliant read/write device(RWD). Common practical problems that are often encountered in such design processes are also commented on. The prototyped antenna was tuned, connected to the RWD via a 50 \Omega coaxial cable and tested.
 date: "2016-04-27T00:00:00Z"
 
 authors:
@@ -20,7 +20,7 @@ links:
 - icon: ""
   icon_pack: ""
   name: Paper
-  url: https://onlinelibrary.wiley.com/doi/10.1002/eng2.12407
+  url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/eng2.12407
 url_code: ""
 url_pdf: ""
 url_slides: ""
