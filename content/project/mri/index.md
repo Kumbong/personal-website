@@ -1,11 +1,10 @@
 ---
 title: Brain Tumor Segmentation
-summary: Implemented simple linear iterative clustering (SLIC) for sementing MRI brain images to help in tumor detection. SLIC adapts a k-means clustering approach
-to efficiently generate superpixels.
+summary:  Implemented image segmentation algorithms on MRI brain images to separate similar portions of the image based on gray-level values of the pixels. The purpose of segmenting the MRI brain images was to help in tumor detection. Segmentation techniques implemented were edge-based segmentation (Krisch, Sobel), threshold-based segmentation (Ostu), clustering algorithms (k-means, adaptive k-means, fuzzy c-means, Marker Controlled Watershed).
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/connected-devices-lab/brain-tumor-segmentation"
+external_link: ""
 
 image:
   caption: Brain Tumor MRI
