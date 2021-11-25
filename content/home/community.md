@@ -144,7 +144,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fomgvoice%2Fphotos%2Fladies-and-gentlemen-meet-mr-hermann-kumbong-the-class-of-2020-overall-best-stud%2F3599974533388005%2F&psig=AOvVaw3DTha6UQ2ff_9Z7oOKs_da&ust=1637953107881000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIic3vqYtPQCFQAAAAAdAAAAABAD" style="width:100%">
+  <img src="https://betterbreedcameroon.org/wp-content/uploads/2020/12/Herbert-1200x480.png" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
