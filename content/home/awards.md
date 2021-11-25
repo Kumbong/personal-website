@@ -42,8 +42,8 @@ gallery_item:
   image: valedictorian2.jpg
   caption: With the Provost of College of Engineering KNUST
 - album: awards
-  image: vbetter_better.png
-  caption: Yout of the Month, Better Breed Cameroon
+  image: vbetter_breed.jpg
+  caption: Youth of the Month, Better Breed Cameroon
 - album: awards
   image: vc_knust.jpg
   caption: With the Vice Chancellor KNUST
