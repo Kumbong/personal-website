@@ -1,6 +1,6 @@
 ---
 title: Antenna Design for high frequency‐radio identification read/write devices
-summary: A stepwise design and measurement of an HF antenna for an ISO/IEC 15693 compliant read/write device(RWD). Common practical problems that are often encountered in such design processes are also commented on. The prototyped antenna was tuned, connected to the RWD via a 50 $\Omega$ coaxial cable and tested.
+summary: A stepwise design and measurement of an HF antenna for an ISO/IEC 15693 compliant read/write device(RWD). Common practical problems that are often encountered in such design processes are also commented on. The prototyped antenna was tuned, connected to the RWD via a 50 Ohm coaxial cable and tested.
 date: "2016-04-27T00:00:00Z"
 
 authors:
