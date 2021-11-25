@@ -15,7 +15,7 @@ links:
   icon_pack: fas
   name: Report
   url: https://drive.google.com/file/d/1UqEfeVv6OzIxo6KNdnT09PmRwTk4e3Gc/view?usp=sharing
-- icon: presentation
+- icon: file-powerpoint
   icon_pack: fas
   name: Slides
   url: https://docs.google.com/presentation/d/1AJvGiwwkWY8X8m6b0mSVteMMpWsoT8r4/edit?usp=sharing&ouid=108603998728623664156&rtpof=true&sd=true
