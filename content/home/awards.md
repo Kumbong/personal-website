@@ -39,7 +39,7 @@ gallery_item:
   image: valedictorian.jpg
   caption: Valedictorian of the Kwame Nkrumah University of Science and Technology 2020
 - album: awards
-  image: with_hod.jpg
+  image: hod.jpg
   caption: Provost of Engineering's Distinguished Student Award, KNUST, 2019
 - album: awards
   image: vbetter_breed.jpg
