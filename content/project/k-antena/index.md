@@ -20,7 +20,7 @@ links:
 - icon: ""
   icon_pack: ""
   name: Paper
-  url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/eng2.12407
+  url: https://onlinelibrary.wiley.com/doi/10.1002/eng2.12407
 url_code: ""
 url_pdf: ""
 url_slides: ""
