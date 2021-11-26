@@ -1,6 +1,6 @@
 ---
 title: Microprocessor Design
-summary:  A 32-bit, RISC processor based on the MIPS instruction set architecture.
+summary:  Design and simulation of a 32-bit, RISC processor based on the MIPS instruction set architecture from scratch. The processor can perform a total of 16 operations including jump and branching operations.
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
