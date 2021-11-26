@@ -10,14 +10,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/Kumbong/quine_mccluskey
-- icon: video
+- icon: file-pdf
   icon_pack: fas
-  name: Demo
-  url: https://github.com/Kumbong/quine_mccluskey
+  name: Paper
+  url: https://www.journalajrcos.com/index.php/AJRCOS/article/view/30114/56510
 url_code: ""
 url_pdf: ""
 url_slides: ""
