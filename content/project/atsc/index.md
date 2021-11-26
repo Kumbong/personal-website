@@ -21,7 +21,7 @@ links:
   url: https://docs.google.com/presentation/d/1AJvGiwwkWY8X8m6b0mSVteMMpWsoT8r4/edit?usp=sharing&ouid=108603998728623664156&rtpof=true&sd=true
 - icon: video
   icon_pack: fas
-  name: Slides
+  name: Demo
   url: https://docs.google.com/presentation/d/1AJvGiwwkWY8X8m6b0mSVteMMpWsoT8r4/edit?usp=sharing&ouid=108603998728623664156&rtpof=true&sd=true
 url_code: ""
 url_pdf: ""
