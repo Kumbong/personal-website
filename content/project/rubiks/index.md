@@ -1,5 +1,5 @@
 ---
-title: QMC Minimizer
+title: 3D rubik's cube solver
 summary: A fast, easy to use and comprehensive command line interface tool for minimization of boolean circuits/functions based on the Quine–McCluskey algorithm.
 date: "2016-04-27T00:00:00Z"
 
