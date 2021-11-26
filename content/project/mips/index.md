@@ -15,12 +15,12 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/Kumbong/mini-mips
-- icon: ""
-  icon_pack: ""
+- icon: file-pdf
+  icon_pack: fas
   name: Report
   url: https://github.com/Kumbong/mini-mips/blob/master/docs/report.pdf
-- icon: ""
-  icon_pack: ""
+- icon: file-powerpoint
+  icon_pack: fas
   name: Slides
   url: https://docs.google.com/presentation/d/1MpAyyyyIRhAAk4YZGEPiKS5p76khfpoZ/edit#slide=id.p1
 url_code: ""
