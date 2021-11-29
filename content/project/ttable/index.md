@@ -16,7 +16,6 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/robeng1/automated_time_table_generator_engine
-links:
 - icon: github
   icon_pack: fab
   name: Code
