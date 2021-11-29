@@ -1,6 +1,6 @@
 ---
 title: Adaptive Traffic Signal Control
-summary: Applied multi-agent reinforcement learning to large scale adaptive traffic singal control. This adjusts the timing of traffic singals based on the density of traffic in different sections of the road network. Local agents consist of Deep-Q Learning agents and simulation results show 25% decrease in average waiting time at intersections.
+summary: Applied multi-agent reinforcement learning to adjust the timing of traffic singals based on the density of traffic in different sections of the road network. Local agents consist of Deep-Q Learning agents and simulation results show 25% decrease in average waiting time at intersections.
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
