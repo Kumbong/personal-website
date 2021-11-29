@@ -1,13 +1,13 @@
 ---
-title: 3D rubik's cube solver
-summary: A fast, easy to use and comprehensive command line interface tool for minimization of boolean circuits/functions based on the Quine–McCluskey algorithm.
-date: "2016-04-27T00:00:00Z"
+title: 3D rubik's cube game
+summary: 3D rubikx cube game  built with C++ and OpenGL. Final course project for Computer Graphics at the Kwame Nkrumah University of Science and Technology.
+date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Quine-Mccluskey algorithm
+  caption: rubik's cube
   focal_point: Smart
 
 links:
