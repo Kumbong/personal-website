@@ -18,7 +18,7 @@ links:
 - icon: video
   icon_pack: fas
   name: Demo
-  url: https://github.com/Kumbong/quine_mccluskey
+  url: https://github.com/Kumbong/quine_mccluskey#:~:text=a%2Cb%2Cc%2Cd-,Demo%20%F0%9F%8E%A5,-Solution%20for%20the
 url_code: ""
 url_pdf: ""
 url_slides: ""
