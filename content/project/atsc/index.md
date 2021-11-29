@@ -19,10 +19,6 @@ links:
   icon_pack: fas
   name: Slides
   url: https://docs.google.com/presentation/d/1AJvGiwwkWY8X8m6b0mSVteMMpWsoT8r4/edit?usp=sharing&ouid=108603998728623664156&rtpof=true&sd=true
-- icon: video
-  icon_pack: fas
-  name: Demo
-  url: https://drive.google.com/file/d/1qdrUgdet4gMqi0yMmyNYJWytC89w0jdc/view?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
