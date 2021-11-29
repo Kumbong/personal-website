@@ -4,7 +4,7 @@ summary: A fast, easy to use and comprehensive command line interface tool for m
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/Kumbong/quine_mccluskey
+external_link: ""
 
 image:
   caption: Quine-Mccluskey algorithm
@@ -14,6 +14,10 @@ links:
 - icon: github
   icon_pack: fab
   name: Code
+  url: https://github.com/Kumbong/quine_mccluskey
+- icon: video
+  icon_pack: fas
+  name: Demo
   url: https://github.com/Kumbong/quine_mccluskey
 url_code: ""
 url_pdf: ""
