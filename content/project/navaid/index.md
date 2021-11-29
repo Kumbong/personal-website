@@ -1,6 +1,6 @@
 ---
-title: A Smart Navigation Aid for The Blind
-summary: Design of a navigation  aid for visually impaired that can detect and classify objects in the user’s environment, estimate the distance to the visually impaired user and inform them.
+title: A Smart Navigation Aid
+summary: Design of a navigation aid for visually impaired that can detect and classify objects in the user’s environment, estimate the distance to the visually impaired user and inform them of any obstacles in their path.
 date: "2018-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
