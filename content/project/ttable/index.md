@@ -1,6 +1,6 @@
 ---
-title: KNUST Lecture Scheduler
-summary: A lecture scheduling algorithm for KNUST that models the lecture schedulling process as a multi-objective optimization problem with soft and hard constraints and applies GRASP (Greedy Randomized Adaptive Search Procedure) meta-heuristic to generate lecture schedules.
+title: Lecture Scheduling Algorithm
+summary: A lecture scheduling algorithm for KNUST that models the lecture scheduling process as a multi-objective optimization problem with soft and hard constraints and applies greedy randomized search to generate lecture schedules.
 
 date: "2016-04-27T00:00:00Z"
 
@@ -15,7 +15,12 @@ links:
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/419-studios
+  url: https://github.com/robeng1/automated_time_table_generator_engine
+links:
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/robeng1/automated_time_table_ui
 - icon: ""
   icon_pack: ""
   name: Report
