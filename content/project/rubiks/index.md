@@ -4,7 +4,7 @@ summary: 3D rubikx cube game  built with C++ and OpenGL. Course project for Comp
 date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/Kumbong/rubikx
+external_link: https://drive.google.com/file/d/1JLouLj5C-v3g-Rcm_rhZIu1lW3pBA_-c/view?usp=sharing
 
 image:
   caption: rubik's cube
@@ -18,7 +18,7 @@ links:
 - icon: video
   icon_pack: fas
   name: Demo
-  url: https://drive.google.com/file/d/1mLxpWwvQEr2KymNTHJkjyalUfDcbT6TE/view?usp=sharing
+  url: https://drive.google.com/file/d/1JLouLj5C-v3g-Rcm_rhZIu1lW3pBA_-c/view?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
