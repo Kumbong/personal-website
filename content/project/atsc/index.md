@@ -11,10 +11,6 @@ image:
   focal_point: Smart
 
 links:
-- icon:  github
-  icon_pack: fab
-  name: Code
-  url: https://drive.google.com/file/d/1UqEfeVv6OzIxo6KNdnT09PmRwTk4e3Gc/view?usp=sharing
 - icon:  file-pdf
   icon_pack: fas
   name: Report
