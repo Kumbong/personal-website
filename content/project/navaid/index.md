@@ -1,6 +1,6 @@
 ---
 title: A Smart Navigation Aid for The Blind
-summary: Design of a semi-autonomous assistive technology for visually impaired that can provide visual self-localization and mapping, detect and classify objects in the user’s environment, estimate the distance to the visually impaired user and inform them.
+summary: Design of a navigation  aid for visually impaired that can detect and classify objects in the user’s environment, estimate the distance to the visually impaired user and inform them.
 date: "2018-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
