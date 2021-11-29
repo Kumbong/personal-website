@@ -1,7 +1,7 @@
 ---
 title: Facial Expression Recognition
 summary: Convolutional Neural Network Classifier for facial expression recognition based on the FER2013 dataset.
-date: "2016-04-27T00:00:00Z"
+date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/connected-devices-lab/affective-computing/blob/master/facial/facial-emotion-recognition-cnn/alex-augmented.ipynb"

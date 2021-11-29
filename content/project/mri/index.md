@@ -1,7 +1,7 @@
 ---
 title: Brain Tumor Segmentation
 summary:  Implemented simple linear iterative clustering (SLIC) for sementing MRI brain images to help in tumor detection. SLIC adapts a k-means clustering approach to efficiently generate superpixels.
-date: "2016-04-27T00:00:00Z"
+date: "2019-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://github.com/connected-devices-lab/brain-tumor-segmentation
