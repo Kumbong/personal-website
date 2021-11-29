@@ -4,7 +4,7 @@ summary: \[**In Progress**\] A framework for training deep learning models using
 date: "2021-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.hermannkumbong.com/"
 
 image:
   caption: Neural Network
